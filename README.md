@@ -26,7 +26,7 @@ print(B)
 ```
 ## Output:
 
-![output](./Screenshot%202022-12-31%20at%2020-50-10%20Exp%2003%20CR%20Inverse%20of%20a%20matrix%20Attempt%20review.png)
+![output](./Screenshot%202023-01-19%20at%2018-37-17%20Exp%2003%20CR%20Inverse%20of%20a%20matrix%20Attempt%20review.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
